@@ -1,7 +1,7 @@
 
 ****************************************************************************************************************************************************************************
-Coursera Modules
-  1. Module2-Solutions: https://thedev05.github.io/Coursera-Modules/Module2-Solutions/
+ Coursera Modules
+  - Module2-Solutions: https://thedev05.github.io/Coursera-Modules/Module2-Solutions/
   
   
  
